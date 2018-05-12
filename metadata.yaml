@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/387
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21941#Grandmother-s-Story-of-Bunker-Hill-Battleas-She-Saw-it-from-the-Belfry
 gutenberg_issued: '2007-06-26'
 gutenberg_type: Text
 identifiers:
