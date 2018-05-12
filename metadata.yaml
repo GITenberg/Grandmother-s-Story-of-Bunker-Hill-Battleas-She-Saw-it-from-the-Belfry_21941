@@ -1,0 +1,35 @@
+_repo: Grandmother-s-Story-of-Bunker-Hill-Battleas-She-Saw-it-from-the-Belfry_21941
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+covers:
+- cover_type: archival
+  image_path: 21941-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+description: ''
+gutenberg_issued: '2007-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Bunker Hill, Battle of, Boston, Mass., 1775 -- Poetry'
+title: Grandmother's Story of Bunker Hill Battle, as She Saw it from the Belfry
+url: http://www.gutenberg.org/ebooks/21941
